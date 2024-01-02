@@ -1,1 +1,1 @@
-# J2EE_Mini_Project
+Inserting data to database and displaying on browser through servlet 
